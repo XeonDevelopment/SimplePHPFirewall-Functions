@@ -11,5 +11,5 @@ Proxy Checker
 Ban System
 Adblock Detector
 
-#Changelog
+# Changelog
 v0.0.1 - Fresh Start
